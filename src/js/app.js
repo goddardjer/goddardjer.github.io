@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", function () {
           "mode": "bubble"
         },
         "onclick": {
-          "enable": true,
+          "enable": false,
           "mode": "repulse"
         },
         "resize": true
