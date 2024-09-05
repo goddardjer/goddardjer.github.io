@@ -18,9 +18,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-email: "#"
-linkedin: "#"
-github: "#"
+email: "goddarje@oregonstate.edu"
+linkedin: "jeremiah-a-goddard"
+github: "goddardjer"
 
 # Markdown
 highlighter: rouge
