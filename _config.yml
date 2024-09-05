@@ -5,7 +5,7 @@
 title: Jeremiah Goddard
 description: Robotics | Computer Vision | Machine Learning
 
-baseurl: "/goddardjer.github.io" # Needs to be empty for local development and 
+baseurl: "/" # Needs to be empty for local development and 
 url: "https://goddardjer.github.io" #custom url to be used instead of GitHub repository
 email: goddarje@oregonstate.edu
 
