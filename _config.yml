@@ -1,9 +1,11 @@
-### your site title here
+### your site title here 
+
+#
 
 title: Jeremiah Goddard
 description: Robotics | Computer Vision | Machine Learning
 
-baseurl: / #name of GitHub repository
+baseurl: "/" # Needs to be empty for local development and 
 url: "https://goddardjer.github.io" #custom url to be used instead of GitHub repository
 email: goddarje@oregonstate.edu
 
