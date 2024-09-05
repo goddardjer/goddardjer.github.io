@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Jeremiah Goddard
+description: Robotics | Computer Vision | Machine Learning
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: / #name of GitHub repository
+url: "https://goddardjer.github.io" #custom url to be used instead of GitHub repository
+email: goddarje@oregonstate.edu
 
 # Pagination
 paginate: 4
@@ -13,16 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+email: "#"
 linkedin: "#"
-stackoverflow: "#"
 github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-
 
 # Markdown
 highlighter: rouge
