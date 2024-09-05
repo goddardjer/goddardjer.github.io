@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-I'm Jeremiah Goddard, a Master's student in robotics in the Robotics and Human Control Systems Lab (RHCS) at Oregon State University, with a keen interest in perception and its role in creating better robots to improve people's lives. My academic journey has equipped me with strong technical skills in control systems, computer vision, machine learning, motion capture, and sensor fusion. I am particularly passionate about reinforcement learning, tactile perception, and drones, and I'm always seeking ways to push the boundaries of my understanding.
+I'm Jeremiah Goddard, a Master's student in robotics in the Robotics and Human Control Systems Lab (RHCS) at Oregon State University, with an interest in perception and creating better robots to improve people's lives. My academic journey has equipped me with strong technical skills in control systems, computer vision, machine learning, motion capture, and sensor fusion. I am particularly passionate about reinforcement learning, tactile perception, and drones, and I'm always seeking new ways to push the boundaries of my understanding.
 
 <!-- Throughout my studies, I’ve had the opportunity to work on several exciting projects, from building autonomous drones to developing robotic arms for precision tasks. These experiences have given me hands-on expertise in programming robots, designing algorithms, and integrating hardware and software systems. I believe in the power of robotics to revolutionize industries such as healthcare, manufacturing, and space exploration, and I’m eager to contribute to the future of these fields through my work.-->
 
