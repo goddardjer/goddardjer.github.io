@@ -3,7 +3,7 @@
 title: Jeremiah Goddard
 description: Robotics | Computer Vision | Machine Learning
 
-baseurl: / #name of GitHub repository
+baseurl: goddardjer.github.io #name of GitHub repository
 url: "https://goddardjer.github.io" #custom url to be used instead of GitHub repository
 email: goddarje@oregonstate.edu
 
@@ -42,11 +42,7 @@ collections:
     permalink: /projects/:name/
     order:
       - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+
 
 sass:
   sass_dir: /assets/css/_sass
