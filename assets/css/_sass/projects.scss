@@ -12,6 +12,19 @@
   margin: -1rem -1rem;
 }
 
+.projectTilePic {
+  /* Minimum width of 200px and grow to fit available space */
+  flex: 1 0 200px;
+  border-radius: 15px;
+  background-image: url('/assets/images/test.png'); // Correct path to test.png
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+  display: table;
+}
+
 .projectTile {
   /* Minimum width of 200px and grow to fit available space */
   flex: 1 0 200px;

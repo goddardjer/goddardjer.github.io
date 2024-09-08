@@ -1,4 +1,4 @@
-### your site title here 
+### Jeremiah Goddard 
 
 #
 
@@ -9,8 +9,7 @@ baseurl: "/" # Needs to be empty for local development and
 url: "https://goddardjer.github.io" #custom url to be used instead of GitHub repository
 email: goddarje@oregonstate.edu
 
-repository: goddardjer/goddardjer.github.io # Add this line with your repository name
-
+repository: goddardjer/goddardjer.github.io 
 
 # Pagination
 paginate: 4
