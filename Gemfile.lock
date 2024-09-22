@@ -58,8 +58,6 @@ GEM
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
     ffi (1.17.0)
-    ffi (1.17.0-arm64-darwin)
-    ffi (1.17.0-x86_64-darwin)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     github-pages (232)
@@ -250,10 +248,6 @@ GEM
     minitest (5.25.1)
     multipart-post (2.4.1)
     mutex_m (0.2.0)
-    nokogiri (1.16.7-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.16.7-x86_64-darwin)
-      racc (~> 1.4)
     nokogiri (1.16.7-x86_64-linux)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -290,8 +284,6 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  arm64-darwin
-  x86_64-darwin
   x86_64-linux
 
 DEPENDENCIES
@@ -305,4 +297,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.5.19
+   2.3.22
