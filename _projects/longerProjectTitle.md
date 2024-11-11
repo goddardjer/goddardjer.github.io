@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A longer Project Title
+title: Longer Project Title
 description: short project description
 ---
 

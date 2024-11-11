@@ -45,7 +45,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
+      
 
 
 sass:
