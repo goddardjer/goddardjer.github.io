@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 6
-description: another project
+title: CNN For Sterioscopic Images
+description: Training a CNN to classify areas around SIFTs in steroscopic images and matching the points to calculate fundamental matrix
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

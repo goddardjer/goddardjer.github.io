@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project 5
+title: Vision Guided Aiming (6DOF Robot Arm)
 description: another project
 ---
 
