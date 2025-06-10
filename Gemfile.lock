@@ -289,7 +289,7 @@ PLATFORMS
 DEPENDENCIES
   faraday (~> 1.0)
   github-pages
-  jekyll
+  jekyll (~> 3.10.0)
   jekyll-email-protect
   jekyll-paginate
   jekyll-seo-tag
