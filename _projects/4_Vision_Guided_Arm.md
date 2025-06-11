@@ -5,7 +5,7 @@ description: Used a simple 6DOF robot arm and camera to locate and fire upon a t
 ---
 
 <div style="text-align: center;">
-  <video width="600" autoplay muted loop playsinline>
+  <video width="600" autoplay muted loop playsinline controls>
     <source src="{{ '/assets/Firing.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
