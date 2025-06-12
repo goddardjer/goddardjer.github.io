@@ -7,7 +7,7 @@ description: Modifing the presentation of shape and pose information to find all
 Title : An Analysis of The Effects of Object Representation on Shape Generalization
 =========
 
-Authors : **Jeremiah Goddard**, Nigel Swenson, Xiaoli Fern, Ravi Balasubramanian, Cindy Grimm
+<!-- Authors : **Jeremiah Goddard**, Nigel Swenson, Xiaoli Fern, Ravi Balasubramanian, Cindy Grimm -->
 
 <div style="text-align: center;">
   <img src="{{ '/assets/Sim_Real.png' | relative_url }}" alt="Object Rep Image" style="max-width: 1200px; width: 90%; height: auto;" />
@@ -24,5 +24,6 @@ Robotic in-hand manipulation tasks are difficult control problems which are ofte
   </video>
 </div>
 
+**Link** : [https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/df65vh710](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/df65vh710) 
 
-[**Repository**](https://github.com/OSUrobotics/mojo-grasp)
+**Repository** : [https://github.com/OSUrobotics/mojo-grasp](https://github.com/OSUrobotics/mojo-grasp)
