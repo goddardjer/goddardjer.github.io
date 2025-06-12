@@ -13,7 +13,7 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7'
+          ruby-version: '3.0'
           bundler-cache: true  # Automatically handles `bundle install` and cache
 
       - uses: jeffreytse/jekyll-deploy-action@v0.5.0
