@@ -4,7 +4,7 @@ title: Object Representation for RL
 description: Modifing the presentation of shape and pose information to find allow beter generalization
 ---
 
-Title : An Analysis of The Effects of Object Representation on Shape Generalization
+An Analysis of The Effects of Object Representation on Shape Generalization
 =========
 
 <!-- Authors : **Jeremiah Goddard**, Nigel Swenson, Xiaoli Fern, Ravi Balasubramanian, Cindy Grimm -->

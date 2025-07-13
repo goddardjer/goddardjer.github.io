@@ -4,7 +4,7 @@ title: Evaluaing Transferability of Manipulation Policies
 description: Evaluating state and action space combinations to transfer RL policies to different hands
 ---
 
-Title : Evaluating the Effect of State and Action Selection on In-Hand Manipulation Performance for Transferability
+Evaluating the Effect of State and Action Selection on In-Hand Manipulation Performance for Transferability
 =========
 
 Authors : Nigel Swenson, **Jeremiah Goddard**, Xiaoli Fern, Ravi Balasubramanian, Cindy Grimm
